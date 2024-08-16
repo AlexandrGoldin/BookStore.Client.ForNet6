@@ -1,5 +1,5 @@
 # BookStore.Client.ForNet6
-### Frontend of the Client-Server project of the online sopping emulator "BookStore" for PC. Developed in Visual Studio Code on the React.js/Redux.
+### Frontend of the Client-Server project of the online sopping emulator "BookStore" for PC.To use this "BookStore" site you need to run the BookStore.Client.ForNet6 and the backend BookStore.ServerNet6. Developed in Visual Studio Code on the React.js/Redux.
 _________
 ## Stack:
 * React.js
